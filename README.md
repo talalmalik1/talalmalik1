@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+
+My name is Talal Malik, and I am a senior college student passionate about cybersecurity. Over the past few semesters, I have worked on projects involving packet capture using Wireshark, deleted file recovery, and mobile forensics. I am currently seeking internship opportunities where I can apply my technical skills, grow as a cybersecurity professional, and contribute to real-world security solutions.
+
+# 🛠️ Skills and Tools
+
+## Cybersecurity: CrypTool, Wireshark, Magnet Axiom
+## Programming: C++, Python, JavaScript, Ruby, Scala, Haskell
+
+# 📁 Projects
+
+# 📫 Contact Me
 
 <!--
 **talalmalik1/talalmalik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
