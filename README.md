@@ -10,7 +10,9 @@ My name is Talal Malik, and I am a senior college student passionate about cyber
 # 📁 Projects
 
 # 📫 Contact Me
+Email: tmalik2025@outlook.com
 
+LinkedIn: www.linkedin.com/in/talal-malik-b7b0441b1
 <!--
 **talalmalik1/talalmalik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
