@@ -4,7 +4,7 @@ My name is Talal Malik, and I am a senior college student passionate about cyber
 
 # 🛠️ Skills and Tools
 
-## Cybersecurity: CrypTool, Wireshark, Magnet Axiom
+## Cybersecurity: Autopsy, Wireshark, Magnet Axiom
 ## Programming: C++, Python, JavaScript, Ruby, Scala, Haskell
 
 # 📁 Projects
