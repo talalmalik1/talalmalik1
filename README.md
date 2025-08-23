@@ -8,7 +8,11 @@ My name is Talal Malik, and I am a senior college student passionate about cyber
 ## Programming: C++, Python, JavaScript, Ruby, Scala, Haskell
 
 # 📁 Projects
-## Falcon Food Pantry App
+**Falcon Food Pantry App**: https://github.com/talalmalik1/sp25-falcon-food-pantry 
+
+**Reflected Cross-Site Scripting Demo**: https://github.com/talalmalik1/javascript-security-demos/tree/main/xss-reflected 
+
+**Stored Cross-Site Scripting Demo**: https://github.com/talalmalik1/javascript-security-demos/tree/main/xss-stored 
 
 # 📫 Contact Me
 Email: tmalik2025@outlook.com
